@@ -44,7 +44,11 @@ Voici la liste des développeurs qui participent activement au projet :
 | Pseudo GitHub | Rôle |
 |---------------|------|
 | [@AlexandreBarde](https://github.com/AlexandreBarde) | Responsable développement |
-| [@ItStelax](https://github.com/ItStelax) | Développeur java |
+| [@Arava](https://github.com/Arava-0) | Développeur Discord Bot |
+| [@Arthur](https://github.com/arthurcorberes) | Développeur Discord Bot |
+| [@DuckyLine](https://github.com/DuckyLine) | Développeur Java |
+| [@Sébastien](https://github.com/sebpvp) | SysAdmin |
+| [@Velox](https://github.com/VeloxZen) | Développeur Java |
 
 Vous voulez rejoindre l'équipe ? Rendez-vous ici :  
 👉 [Test technique pour candidater](https://github.com/ReviveMC/java-technical-test)
@@ -54,7 +58,8 @@ Vous voulez rejoindre l'équipe ? Rendez-vous ici :
 ## Contact
 
 📧 contact.revivemc@gmail.com  
-🌐 [https://revivemc.fr](https://revivemc.fr)
+🌐 [https://revivemc.fr](https://revivemc.fr)  
+🎧 [https://discord.revivemc.fr](https://discord.revivemc.fr)
 
 ---
 
